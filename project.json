@@ -1,0 +1,9 @@
+
+{
+  "name": "apex_go_terraform",
+  "description": "xxxx",
+  "memory": 128,
+  "timeout": 5,
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
